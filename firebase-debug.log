@@ -1,0 +1,21 @@
+[debug] [2021-06-25T05:55:35.428Z] ----------------------------------------------------------------------
+[debug] [2021-06-25T05:55:35.430Z] Command:       C:\Program Files (x86)\nodejs\node.exe C:\Users\khanm\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-06-25T05:55:35.430Z] CLI Version:   9.14.0
+[debug] [2021-06-25T05:55:35.430Z] Platform:      win32
+[debug] [2021-06-25T05:55:35.430Z] Node Version:  v16.2.0
+[debug] [2021-06-25T05:55:35.431Z] Time:          Fri Jun 25 2021 11:55:35 GMT+0600 (Bangladesh Standard Time)
+[debug] [2021-06-25T05:55:35.431Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-06-25T05:55:35.436Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-06-25T05:55:35.436Z] > authorizing via signed-in user (khanmuhammadhridoy@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\khanm\Desktop\RETRO TECH\Client\retro-tech
+
